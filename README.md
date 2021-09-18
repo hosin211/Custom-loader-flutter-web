@@ -1,4 +1,4 @@
-# Custom-loader-flutter-web
+# Custom-loader for flutter-web
+replase The code of your index file in the web build by one in Exampls after you build your web project
 
-The code  of your index flutter web build is replased by one in Exampls
 
